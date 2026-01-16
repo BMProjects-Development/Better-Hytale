@@ -30,4 +30,6 @@ Better Hytale is a modpack created to bring more variety and depth to the Hytale
 [Telegram](https://t.me/BMProjects) <br/>
 [Discord](https://discord.gg/9GWKBVw3Ty)
 
+<img width="400" height="400" alt="Better_Hytale-Title-FINAL@1_1 (2)" src="https://github.com/user-attachments/assets/42a1b05b-7506-4562-b718-760969950bcd" />
+
 </div>
