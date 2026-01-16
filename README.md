@@ -1,5 +1,5 @@
 <div align="center">
-<img width="1920" height="1080" alt="Better Hytale cover" src="https://github.com/user-attachments/assets/b39a2e77-dd43-43ec-ab64-46aeb0579f15" />
+<img width="1920" height="1080" alt="Better_Hytale" src="https://github.com/user-attachments/assets/1292068d-19c0-4b36-bd2b-6503f1763336" />
 
 <p>
   <a href="https://github.com/BMProjects-Development/Better-Hytale/commits/"><img src="https://img.shields.io/github/commit-activity/t/BMProjects-Development/Better-Hytale?style=for-the-badge&labelColor=B0E0E6&color=4682B4" alt="Stars"></a>
