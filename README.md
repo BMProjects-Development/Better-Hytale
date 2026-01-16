@@ -5,7 +5,6 @@
   <a href="https://github.com/BMProjects-Development/Better-Hytale/commits/"><img src="https://img.shields.io/github/commit-activity/t/BMProjects-Development/Better-Hytale?style=for-the-badge&labelColor=B0E0E6&color=4682B4" alt="Stars"></a>
   <a href="https://github.com/BMProjects-Development/Better-Hytale/stargazers"><img src="https://img.shields.io/github/stars/BMProjects-Development/Better-Hytale.svg?style=for-the-badge&labelColor=B0E0E6&color=4682B4" alt="Stars"></a>
   <a href="https://github.com/BMProjects-Development/Better-Hytale/graphs/contributors"><img src="https://img.shields.io/github/contributors/BMProjects-Development/Better-Hytale.svg?style=for-the-badge&labelColor=B0E0E6&color=4682B4" alt="Contributors"></a>
-  <a href="https://github.com/BMProjects-Development/Better-Hytale/releases"><img src="https://img.shields.io/github/downloads/BMProjects-Development/Better-Hytale/total?style=for-the-badge&labelColor=B0E0E6&color=4682B4" alt="Downloads"></a>
   <a href="https://discord.gg/9GWKBVw3Ty"><img src="https://img.shields.io/discord/1087416155934834748?style=for-the-badge&label=Discord&logo=discord&logoColor=d9e0ee&labelColor=B0E0E6&color=4682B4" alt="Discord"></a>
 </p>
 
