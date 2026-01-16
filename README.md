@@ -9,7 +9,7 @@
   <a href="https://discord.gg/9GWKBVw3Ty"><img src="https://img.shields.io/discord/1087416155934834748?style=for-the-badge&label=Discord&logo=discord&logoColor=d9e0ee&labelColor=B0E0E6&color=4682B4" alt="Discord"></a>
 </p>
 
-# Better-Hytale
+# 🏵️ Better-Hytale
 Better Hytale is a modpack created to bring more variety and depth to the Hytale gameplay! <br/>
 
 ## 🌟 Features 
@@ -23,6 +23,8 @@ Better Hytale is a modpack created to bring more variety and depth to the Hytale
 
 # 📌 Download
 [Google Disk]()
+
+[Guide For Installation](https://github.com/BMProjects-Development/FAQ/blob/main/Hytale/RU/%D0%A3%D1%81%D1%82%D0%B0%D0%BD%D0%BE%D0%B2%D0%BA%D0%B0/installation-mods.md)
 
 # 📝 Contacts
 [Telegram](https://t.me/BMProjects) <br/>
